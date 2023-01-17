@@ -39,7 +39,7 @@ var allwords = [
     "separate",    "ideas",    
     "from",    "hircine",    "pimples",    "undercloth",    "stubborn",    "carp",    "However",    "before",    "vinyls",    "transports",    "were",    "only",  
     "satins",    "talk",    "the",    
-    "fruit",    "assumed",    "gaudy",    "tomato",    "paltry",    "wine",    "slave",    "the",    "mind",    "Few",    "can",    "name",    "wifeless",    "shirt",    "that",    "isn't",    
+    "fruit",    "assumed",    "gaudy",    "tomato",    "paltry",    "wine",    "slave",    "the",    "mind",    "Few",    "can",    "name",    "wifeless",    "shirt",    "that",    "satvik",    
     "damning",    "vermicelli",    "Their",    "success",    "was",    "this",    "moment",    "crumbly",    "jaguar",    "The",    "onshore",    "word",    "reveals",    "itself",    "trinal",    
     "garlic",    "those",    "who",    "look",    "footworn",    "tin",    "twist",    "the",    "mind",    "Unfortunately",    "that",    "wrong",    "the",    "contrary",    "patch",    "sees",    
     "propane",    "beamish",    "plier",    "Bouffant",    "holes",    "show",    "how",    "motorcycles",    "can",    "nations",    "day",    "the",    "resolution",    "assumed",    "mobbish",    
