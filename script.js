@@ -131,7 +131,7 @@ async function checkval(temp){
                 worddiv.innerHTML = `<li> Congrats on completion </li>`;
                 worddiv.innerHTML += `<li> time taken ${time} s</li>`;
                 worddiv.innerHTML += `<li> ${ Math.floor( ( completed/(time/60) )*10) / 10} wpm</li>`;
-            }
+            }cz
 
             break;
         }
@@ -159,5 +159,4 @@ function keypress(e){
         tempval += e.key;
     }
     document.getElementById("selected-word").innerText = tempval=="" ? "Start Typing..." : tempval;
-}
-
+}   
